@@ -1,12 +1,27 @@
 
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES - [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601506.us.archive.org/27/items/images-4_20200716_0608/images%20%284%29.jpeg</thumbnail>
+<externallink>https://pastebin.com/raw/Qw0iiZbx</externallink>
+<fanart>https://ia601401.us.archive.org/28/items/images-3_20200716/images%20%283%29.jpeg</fanart>
+<info>
 
- <channels>
+
+[COLOR deeppink]|[/COLOR] - DESCULPEM ERROS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
 <channel>
 <name>filmes em torrent's</name>
 <externallink>http://point242br.xyz/6767654454/pasta02/torrent1.txt</externallink>
 <thumbnail>http://point242br.xyz/6767654454/dicas/torrent.jpg</thumbnail>
 <fanart>http://point242br.xyz/6767654454/dicas/fundo.jpg</fanart>
 <info>Lista de torrents para a plataforma Elementum</info>
+
 <channels>
 <channel>
 
