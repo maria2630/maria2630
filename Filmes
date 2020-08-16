@@ -1,3 +1,5 @@
+
+<channels>
 <channel>
 <name>[COLOR gold][B]Conteúdo com: [COLOR white]Filmes, séries, desenhos e animes[/B][/COLOR]</name>
 <externallink>https://bit.ly/2BMA7kk</externallink>
@@ -7,6 +9,7 @@
 <info></info>
 </channel>
 
+<channels>
 <channel>
 <name>[COLOR gold][B]Conteúdo com: [COLOR white]filmes[/B][/COLOR]</name>
 <externallink>https://bit.ly/308EWxE</externallink>
@@ -16,6 +19,7 @@
 Em breve mais conteúdos!</info>
 </channel>
 
+<channels>
 <channel>
 <name>[COLOR gold][B]Conteúdo com: [COLOR white]filmes - [COLOR red]EM CONSTRUÇÃO[/B][/COLOR]</name>
 <externallink>https://bit.ly/3fd1otM</externallink>
@@ -26,7 +30,7 @@ Em manutenção. este site está com vários filmes com problemas.!</info>
 </channel>
 
 
-
+<channels>
 <channel>
 <name>[COLOR gold][B]Conteúdo com: [COLOR white]Séries antigas[/B][/COLOR]</name>
 <externallink>https://bit.ly/2BIfmWX</externallink>
@@ -37,7 +41,7 @@ Em breve mais conteúdos!</info>
 </channel>
 
 
-
+<channels>
 <channel>
 <name>[COLOR gold][B]Conteúdo com: [COLOR white]filmes, desenhos e séries [/B][/COLOR]</name>
 <externallink1></externallink>
@@ -48,7 +52,7 @@ Em breve mais conteúdos!</info>
 </channel>
 
 
-
+<channels>
  <channel>
 <name>[COLOR gold][B]Conteúdo com: [COLOR white]filmes em torrent's[/B][/COLOR]</name>
 <externallink>http://point242br.xyz/6767654454/pasta02/torrent1.txt</externallink>
@@ -58,7 +62,7 @@ Em breve mais conteúdos!</info>
 </channel>
 
 
-
+<channels>
 <channel>
 <name>[COLOR gold][B]Conteúdo com: [COLOR white]1000 webcan's 24H[/B][/COLOR]</name>
 <externallink>http://point242br.xyz/6767654454/pasta01/webcam1.txt</externallink>
@@ -69,7 +73,7 @@ Em breve mais conteúdos!</info>
 
  
  
-
+<channels>
 <channel>
 <name>[COLOR gold][B]Conteúdo com: [COLOR white]Coletânea de musicas - 3000 artistas.  [COLOR lime] Manutenção[/B][/COLOR]</name>
 <externallink></externallink>
@@ -80,7 +84,7 @@ Em breve mais conteúdos!</info>
 <info2>/browse/style/axe.html</info2>
 </channel>
 
-
+<channels>
 <channel>
 <name>[COLOR gold][B]Canais de seu artista no youtube  [COLOR lime] Manutenção[/B][/COLOR]</name>
 <externallink1></externallink>
@@ -90,6 +94,8 @@ Em breve mais conteúdos!</info>
 <info>Canais oficiais de seus artistas no youtube.</info>
 <info2>/browse/style/axe.html</info2>
 </channel>
+
+<channels>
 <channel>
 <name>[COLOR white][B]Canais de Karaokê  [COLOR lime] Manutenção[/B][/COLOR]</name>
 <externallink></6767654454/</externallink>
@@ -100,7 +106,7 @@ Em breve mais conteúdos!</info>
 <info2>/browse/style/axe.html</info2>
 </channel>
 
- 
+ <channels>
 <channel>
 <name>[COLOR lime][B]Rádios online[/B][/COLOR]</name>
 <externallink>https://pastebin.com/raw/WDC33aLu</externallink>
