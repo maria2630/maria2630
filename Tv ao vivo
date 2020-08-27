@@ -291,7 +291,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&strea
 #EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 7 HD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/146
 
-EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7-yLwLzI2nQy7VW2DE7VS7UiusPUWZluwUQ&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE CLUBES HD🇧🇷
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7-yLwLzI2nQy7VW2DE7VS7UiusPUWZluwUQ&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE CLUBES HD🇧🇷
 http://195.181.163.183:2200/PY-N/Premiere_Clubes_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 2 HD🇧🇷
