@@ -240,78 +240,201 @@ http://195.181.163.183:2200/PY-N/Sportv_3_HD-br/index.m3u8?token=RED_UudWnQS2T4T
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSCvMfNz8NzG2fLYT31jM2RiTJZSPIWowjWg&usqp=CAU" group-title="ESPORTES GLOBOSAT",🇧🇷OFF HD🇧🇷
 http://195.181.163.183:2200/PY-N/OFF_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 Clubes FHD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 1 Clubes FHD₁
+EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 Clubes FHD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 1 Clubes FHD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/725
 
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 Clubes HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 1 Clubes HD₁
+EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 Clubes HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 1 Clubes HD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/134
 
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 Clubes SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 1 Clubes SD₁
+EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 Clubes SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 1 Clubes SD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/135
 
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 2 HD₁
+EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 2 HD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/136
 
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 2 SD₁
+EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 2 SD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/137
 
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 3 HD₁
+EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 3 HD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/138
 
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 3 SD₁
+EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 3 SD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/139
 
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 4 HD₁
+EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 4 HD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/140
 
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 4 SD₁
+EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 4 SD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/141
 
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 5 HD₁
+EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 5 HD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/142
 
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 5 SD₁
+EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 5 SD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/143
 
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 FHD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 6 FHD₁
+EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 FHD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 6 FHD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/730
 
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 FHD₂" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 6 FHD₂
+EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 FHD₂" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 6 FHD₂
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/22369
 
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 6 HD₁
+EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 6 HD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/144
 
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD₂" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 6 HD₂
+EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD₂" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 6 HD₂
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/22207
 
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 6 SD₁
+EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD₁" tvg-logo="http://nowiptv.net/_logos/premiere_sd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 6 SD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/145
 
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 7 HD₁
+EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD₁" tvg-logo="http://nowiptv.net/_logos/premiere_hd.png" group-title="CANAIS: PREMIERE  | PPV",Premiere 7 HD₁
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://lista.titanuhd.top:80/raimundo01/raimundo01/146
 
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7-yLwLzI2nQy7VW2DE7VS7UiusPUWZluwUQ&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE CLUBES HD🇧🇷
+EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7-yLwLzI2nQy7VW2DE7VS7UiusPUWZluwUQ&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE CLUBES HD🇧🇷
 http://195.181.163.183:2200/PY-N/Premiere_Clubes_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 2 HD🇧🇷
+EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 2 HD🇧🇷
 http://195.181.163.183:2200/PY-N/Premiere_2_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 3 HD🇧🇷
+EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 3 HD🇧🇷
 http://195.181.163.183:2200/PY-N/Premiere_3_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 4 HD🇧🇷
+EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 4 HD🇧🇷
 http://195.181.163.183:2200/PY-N/Premiere_4_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 5 HD🇧🇷
+EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 5 HD🇧🇷
 http://195.181.163.183:2200/PY-N/Premiere_5_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 6 HD🇧🇷
+EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 6 HD🇧🇷
 http://195.181.163.183:2200/PY-N/Premiere_6_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 7 HD🇧🇷
+EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4CdbmP6REZj1LdOJ20u9b24NlKQYLSsdEqA&usqp=CAU" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 7 HD🇧🇷
 http://195.181.163.183:2200/PY-N/Premiere_7_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes rota 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere Clubes rota 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/46
+
+#EXTINF:-1 tvg-id="Premiere Clubes opcao 2" tvg-name="Premiere Clubes rota 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere Clubes rota 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1194
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES FULLHD" tvg-name="PREMIERE CLUBES FULLHD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="FullHD",PREMIERE CLUBES FULLHD
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/2566
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes h265" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="H265",Premiere Clubes h265
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1256
+
+#EXTINF:-1 tvg-id="Premiere 1 HD" tvg-name="Premiere 1 HD ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 1 HD ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/193
+
+#EXTINF:-1 tvg-id="Premiere 1 HD - opçao 2" tvg-name="Premiere 1 HD ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 1 HD ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1189
+
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 2 ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/54
+
+#EXTINF:-1 tvg-id="Premiere 2 opcao 2" tvg-name="Premiere 2 ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 2 ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1195
+
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 2 HD ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/192
+
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 2 HD ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1190
+
+#EXTINF:-1 tvg-id="PREMIERE 2 FULLHD" tvg-name="PREMIERE 2 FULLHD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="FullHD",PREMIERE 2 FULLHD
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/2565
+
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 3 ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/53
+
+#EXTINF:-1 tvg-id="Premiere 3 opcao 2" tvg-name="Premiere 3 ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 3 ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1196
+
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 3 HD ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/191
+
+#EXTINF:-1 tvg-id="Premiere 3 HD opcao 2" tvg-name="Premiere 3 HD ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 3 HD ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1191
+
+#EXTINF:-1 tvg-id="PREMIER 3 FULLHD 1080" tvg-name="PREMIERE 3 FULLHD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="FullHD",PREMIERE 3 FULLHD
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1958
+
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 4 ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/52
+
+#EXTINF:-1 tvg-id="Premiere 4 opcao 2" tvg-name="Premiere 4 ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 4 ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1197
+
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 4 HD ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/190
+
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 4 HD ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1192
+
+#EXTINF:-1 tvg-id="PREMIERE 4 FULLHD" tvg-name="PREMIERE 4 FULLHD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="FullHD",PREMIERE 4 FULLHD
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/2564
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 h265" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="H265",Premiere 4 h265
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1258
+
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 5 ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/51
+
+#EXTINF:-1 tvg-id="Premiere 5 opcao 2" tvg-name="Premiere 5 ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 5 ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1198
+
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 5 HD ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/189
+
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 5 HD ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1193
+
+#EXTINF:-1 tvg-id="PREMIERE 5 FULLHD" tvg-name="PREMIERE 5 FULLHD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="FullHD",PREMIERE 5 FULLHD
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/2563
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 h265" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="H265",Premiere 5 h265
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1257
+
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 6 ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/50
+
+#EXTINF:-1 tvg-id="Premiere 6 opcao 2" tvg-name="Premiere 6 ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 6 ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1529
+
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 6 HD
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1916
+
+#EXTINF:-1 tvg-id="PREMIERE 6 FULLHD" tvg-name="PREMIERE 6 FULLHD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="FullHD",PREMIERE 6 FULLHD
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/2562
+
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 7 ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/49
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 7 ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1528
+
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 7 HD
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1917
+
+#EXTINF:-1 tvg-id="PREMIERE 7 FULLHD" tvg-name="PREMIERE 7 FULLHD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="FullHD",PREMIERE 7 FULLHD
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/2561
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 8 ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/48
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 8 ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1527
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9 ROTA 1" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 9 ROTA 1
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/47
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9 ROTA 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 9 ROTA 2
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1526
+
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 10" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 10
+http://smvlive.xyz:25461/PauloRoger/Y7jS2qPC/1530
+
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQek5kWBlNy1Dy1PTLPUZ3sWzw36tctMj2MTA&usqp=CAU" group-title="ESPORTES",🇧🇷BAND SPORTS HD🇧🇷
 http://195.181.163.183:2200/PY-N/Band_Sports_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
